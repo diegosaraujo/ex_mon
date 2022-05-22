@@ -1,6 +1,6 @@
 # ExMon
 
-**TODO: Add description**
+**Criando um jogo de turnos baseados em Pokemon. Este projeto foi baseado no curso de Elixir do Rafeal Camarda, na plataforma Udemy.**
 
 ## Installation
 
